@@ -1,11 +1,11 @@
-<<<<<<< HEAD
-Apples
-=======
-Apples
->>>>>>> dev
-Bananas 
+Lemons
+Bananas
 Corn
-More dog Food
+<<<<<<< HEAD
+More dog food
+=======
+Rabbit Food
+>>>>>>> dev
 Cereal
 Bread
 Eggs
