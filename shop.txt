@@ -1,7 +1,11 @@
-Apple
+<<<<<<< HEAD
+Apples
+=======
+Apples
+>>>>>>> dev
 Bananas 
 Corn
-Cat Food
+Dog Food
 Cereal
 Bread
 Eggs
